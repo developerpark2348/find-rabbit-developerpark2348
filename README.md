@@ -1,1 +1,3 @@
-첫 표지만 보고 스스로 popup창의 style.opacity를 지정하여, javascript 타이머가 0이될시, popup창의 내용의 opacity를 1로 만들어 화면에 출력하게 만들었으며, 소리출력등과같은 여러가지 요소를 활용하여 만들었습니다.
+여러 당근그림과 하나의 토끼그림을 배치하여 상단의 Find a rabbit을 클릭시
+기존의 rabbit에 "rabbit"이라는 클래스를 지정하고 script부분에서
+rabbit.scrollIntoView와 smooth, center등의 스타일을 적용하여 화면의 중앙에 토끼가 오도록 만듦.
